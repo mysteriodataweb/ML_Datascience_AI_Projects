@@ -1,0 +1,86 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+*.egg
+.Python
+
+# Virtual environments
+venv/
+.env/
+env/
+ENV/
+.venv/
+music_env/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+**/.ipynb_checkpoints/*
+*.nbconvert/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# OS
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.log
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Generated / output files
+**/generated_creative_output.txt
+**/chatbot_conversation.txt
+**/music_dataset_complete.csv
+**/plots/*.png
+**/report/*.pdf
+
+# R
+.Rhistory
+.RData
+.Ruserdata
+*.Rproj
+
+# GitHub - only ignore GitHub copilot instructions, not workflows/templates
+.github/copilot-instructions.md
+.github/prompts/
+
+# Original source directories (moved to projects/)
+IntroLLM/
+IntroR/
+Langchain/
+ML A-Z/
+NLP/
+PCA/
+Ridge Lasso/
+SVM/
+Tensorflow/
+Time_Series/
+VectorDatabase/
+
+# Large files (keep specific datasets)
+*.csv
+!**/winequality-red.csv
+!**/Fake.csv
+!**/True.csv
+!**/music_dataset_mod.csv
+!**/apple_stock_data.csv
+!**/housing_data.csv
+!**/social data.csv
+!**/Hitters-fs.csv
+!**/courses_with_sections.csv
+!**/365 Courses data.csv
