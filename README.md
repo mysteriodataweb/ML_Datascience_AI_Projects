@@ -7,7 +7,7 @@
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0%2B-EE4C2C?logo=pytorch&logoColor=white)](https://pytorch.org)
 [![HuggingFace](https://img.shields.io/badge/HuggingFace-Transformers-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co)
 [![R](https://img.shields.io/badge/R-4.x-276DC3?logo=r&logoColor=white)](https://www.r-project.org)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 [![CI](https://github.com/AlfredBIAM/data-science-portfolio/actions/workflows/ci.yml/badge.svg)](https://github.com/AlfredBIAM/data-science-portfolio/actions/workflows/ci.yml)
 
 A curated collection of **11 data science & machine learning projects** demonstrating practical expertise across the full ML lifecycle: from data exploration and feature engineering to model deployment and evaluation.
@@ -329,9 +329,7 @@ main        -- Production-ready code
 
 ---
 
-## License
 
-This project is licensed under the MIT License -- see the [LICENSE](LICENSE) file for details.
 
 ---
 
@@ -339,9 +337,9 @@ This project is licensed under the MIT License -- see the [LICENSE](LICENSE) fil
 
 **Kwami Alfred Jordal BIAM** -- Data Scientist & AI Engineer
 
-- GitHub: [@AlfredBIAM](https://github.com/AlfredBIAM)
+- GitHub: [@AlfredBIAM](https://github.com/mysteriodataweb)
 - LinkedIn: [linkedin.com/in/alfredbiam](https://linkedin.com/in/alfredbiam)
-- Email: alfred.biam@example.com
+- Email: fredbiam9@gmail.com
 
 ---
 
